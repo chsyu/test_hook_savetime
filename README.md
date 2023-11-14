@@ -12,4 +12,4 @@
 
 通過比較 useMemo 和 useCallback 在有無優化的情況下的執行時間，我們可以觀察到性能上的改進。在大型應用或昂貴的計算操作中，這些優化會更加明顯。
 
-![image](picture or gif url)
+![image](https://github.com/chsyu/test_hook_savetime/blob/2777a5926492927e8ca2ae74154cc03ac43bfe47/code.png)
