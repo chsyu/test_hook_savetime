@@ -1,10 +1,14 @@
-import ParentComponent from './ParentComponent'
+import WithHook from './WithHook'
 import './App.css'
+import WithoutHook from './WithoutHook'
 
 function App() {
   return (
     <div>
-      <ParentComponent />
+      <WithHook />
+      <br />
+      <br />
+      <WithoutHook />
     </div>
   )
 }
